@@ -1,0 +1,22 @@
+# Default character class file for data
+
+alphabet= ACGNT
+
+# Character probabilities based on occurrence frequency
+p= _ 0.00100097
+p= A 0.235027
+p= C 0.244144
+p= G 0.25057
+p= N 0.0258648
+p= T 0.243394
+# TOTAL: 1
+
+
+# STOP character list
+# List of STOP characters (members of alphabet)
+# STOP= %?!  # Patterns do not cross over these stop characters
+
+# Character groups
+# g= ILE [hydro_fob]
+# g= AT              # If no group name, then [AT] will be used automatically
+# 
